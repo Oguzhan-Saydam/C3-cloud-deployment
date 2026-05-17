@@ -1,0 +1,27 @@
+.container {
+  max-width: 600px;
+  margin: 60px auto;
+  font-family: Arial, sans-serif;
+}
+
+form {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 24px;
+}
+
+input {
+  flex: 1;
+  padding: 10px;
+}
+
+button {
+  padding: 10px 14px;
+  cursor: pointer;
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
